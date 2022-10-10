@@ -679,7 +679,7 @@ banner
   font-size: 54px;
   font-weight: 700;
 }
-@media (min-width: 500px) {
+@media (min-width: 400px) {
  #top .left-content h4 {
   font-family: 'Dancing Script', cursive;
   color: #fff;
