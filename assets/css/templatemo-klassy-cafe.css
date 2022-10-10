@@ -681,13 +681,13 @@ banner
 }
 
 @media (max-width: 767px){
-#top .left-content {
+ .left-content {
     text-align: center;
     padding: 25% 0px;
     font-size: 15px;
     height: 500px;
 }
-  #top .left-content h4 {
+  .left-content h4 {
     font-family: 'Dancing Script', cursive;
     color: #fff;
     font-size: 14px;
